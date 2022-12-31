@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A Doc site and blog page for anything Tech Related in my homelab and technology I use at work.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.bullhosting.uk'
+url: 'https://aaronnad.github.io'
 
 github:
   username: aaronnad             # change to your github username
