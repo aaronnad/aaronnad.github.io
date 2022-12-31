@@ -45,11 +45,11 @@ for filename in os.listdir(path):
 console.log("Hellow World)
 ```
 
-## This is how we embed an image
+## This is how we add an image
 
-![img-description](https://pbs.twimg.com/media/Eio35aVWoAA6Pr3?format=jpg&name=small)
+![img-description](/assets/img/italy/IMG_4495.JPG)
 
-_Twitter Photo example_
+_Italy Photo example_
 
 ## This is what happens when i update the site
 
