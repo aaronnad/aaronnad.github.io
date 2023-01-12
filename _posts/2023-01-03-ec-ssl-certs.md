@@ -1,7 +1,7 @@
 ---
 title: EC SSL Certs and Keys
 date: 2023-01-03 15:00:00 -0000
-categories: [Tech, Guide]
+categories: [Tech,Guide]
 tags: [ec,ssl,certificates,guides,eliptic_curve]
 ---
 Quite often than not i find myself needing to refresh on how to do some simple EC cert generation now that things are moving toward a more automated approach.
