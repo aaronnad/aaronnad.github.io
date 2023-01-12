@@ -3,6 +3,11 @@ name: Build every hour
 #on:
 #  schedule:
 #   - cron: '0 * * * *'
+
+## Use the following for now for a manual run
+## Allowing the workflow to properly create
+on:
+  workflow_dispatch:
 jobs:
   curl:
     runs-on: ubuntu-latest
