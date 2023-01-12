@@ -1,0 +1,13 @@
+name: Build every hour
+# To enable auto builds - disable this below - only when i want to know, this will build this job and the jekyll every hour
+#on:
+#  schedule:
+#   - cron: '0 * * * *'
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+    - name: curl
+      uses: wei/curl@master
+      with:
+        args: "-X POST -H 'Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}' -H 'Accept: application/vnd.github.ant-man-preview+json' https://api.github.com/repos/aaronnad/aaronnad.github.io/pages/builds"
