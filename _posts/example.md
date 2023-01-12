@@ -1,10 +1,3 @@
----
-title: Hello Homelab
-date: 2022-12-31 18:40:00 -0000
-categories: [Homelab]
-tags: [dell,test,portainer]
----
-
 # Welcome
 
 This is the first initial entry to the bullhosting site
@@ -47,7 +40,7 @@ console.log("Hellow World)
 
 ## This is how we add an image
 
-![img-description](/assets/img/italy/IMG_4495.JPG)
+![img-description](/assets/img/example/italy.JPG)
 
 _Italy Photo example_
 
