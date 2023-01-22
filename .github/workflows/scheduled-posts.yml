@@ -4,7 +4,6 @@ on:
    - cron: '0 10 * * 1' #Runs at 10AM on Monday, every Monday https://crontab.guru/#0_10_*_*_1
 
 ## Use the following for now for a manual run
-on:
   workflow_dispatch:
 jobs:
   curl:
