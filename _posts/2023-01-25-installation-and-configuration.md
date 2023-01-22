@@ -2,7 +2,7 @@
 title: Configure networking and storage for a Proxmox homelab
 date: 2023-01-25 09:00:00 -0000
 categories: [Tech,Blog]
-tags: [dell,server,homelab,storage,networking,fibre,10gb,optics,sfp,sfp+]
+tags: [dell,server,homelab,storage,networking,fibre,10gb,optics,sfp,sfp+,truenas,proxmox]
 ---
 # Configuring my new host
 With using proxmox as my underlying hyprevisor, there are a few steps to take to improve upon my old configuration as well as trying to optimise and improve the efficiency and fault tolerance of the setup.
