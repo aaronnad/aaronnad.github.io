@@ -19,12 +19,14 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bulls Lab                          # the main title
+title: Bullhosting Guides, Blogs and Lab                          # the main title
 
-tagline: Mind notes and blog for anything Tech related   # it will display as the sub-title
+tagline: Notes, guides and blogs for anything Tech related   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Doc site and blog page for anything Tech Related in my homelab and technology I use at work.
+  I often write a load of notes scattered around various places. I figured these would be better articulated
+  in a single place and where they may be of use to someone else. Don't take these for gospel, but do know
+  any guide I write is one I have followed myself.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://aaronnad.github.io'
@@ -81,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/3563459150/936219bb1b9ec01a8d2da6fadb686e70_400x400.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
