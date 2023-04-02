@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0"
-gem "jekyll-sass-converter", "~> 2.0"
+gem "jekyll-sass-converter", "~> 2.0" # Added for cloudflare builds to work on cloudflare pages to prevent build failures - see https://community.cloudflare.com/t/deployment-failing-rubygems-version/446483
 
 group :test do
   gem "html-proofer", "~> 3.18"
